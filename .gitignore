@@ -1,0 +1,17 @@
+**/*.egg-info
+**/*.py[cod]
+**/.DS_Store
+**/.cache
+**/.coverage*
+**/.envrc
+**/.ruff_cache
+**/.secrets
+**/.venv
+**/__pycache__/*
+**/node_modules
+dist/
+docs/build/
+docs/source/_build/
+docs/source/apidocs/
+reports/
+tmp/
